@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.LayerUpdateForm.resources
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.Properties.Resources.resources
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\bin\x64\Debug\AutoCadProgrammingDemo.dll.config
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\bin\x64\Debug\AutoCadProgrammingDemo.dll
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\bin\x64\Debug\AutoCadProgrammingDemo.pdb
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.dll
+C:\Users\Acer\source\repos\AutoCadProgrammingDemo\obj\x64\Debug\AutoCadProgrammingDemo.pdb
